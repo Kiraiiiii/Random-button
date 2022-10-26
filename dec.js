@@ -1,5 +1,5 @@
 var b = document.querySelector("#movingbutton");
-b.addEventListener("click",change);
+b.addEventListener("mousemove",change);
 
 function change()
 {
